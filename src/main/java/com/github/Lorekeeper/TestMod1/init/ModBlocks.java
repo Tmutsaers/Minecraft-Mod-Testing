@@ -7,7 +7,7 @@ import com.github.Lorekeeper.TestMod1.help.RegisterHelper;
 
 public class ModBlocks 
 {
-	public static Block titaniumOre = new BlockTitaniumOre().setBlockName("TitaniumOre");
+	public static Block titaniumOre = new BlockTitaniumOre();
 	
 	public static void init()
 	{
